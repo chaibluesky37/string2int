@@ -1,0 +1,23 @@
+{
+  "name": "string2int",
+  "version": "1.0.0",
+  "description": "For anyone who accept this challenge, you have to write the program in any language that can retrieve mixed both numerical and alphabetical character and return only the numerical value in interger format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaibluesky37/string2int.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaibluesky37/string2int/issues"
+  },
+  "homepage": "https://github.com/chaibluesky37/string2int#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
